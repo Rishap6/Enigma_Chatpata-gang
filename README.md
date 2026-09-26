@@ -89,6 +89,13 @@ Open the local URL provided by Vite in your browser and start using the applicat
 
 ---
 
+## 🤖 AI Usage & Acknowledgement
+
+AI-assisted development tools such as **ChatGPT** were used during the development of this project. AI was used for tasks including brainstorming ideas, understanding technical concepts, debugging, generating code suggestions, and improving parts of the implementation.
+
+The final implementation was reviewed, modified, and integrated by the team according to the project's requirements.
+---
+
 ## 💡 Core Idea
 
 **Add allergies → Scan/check a product → Analyze ingredients → Compare with family allergy profiles → Get a safety warning**
